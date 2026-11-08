@@ -3,7 +3,7 @@
 
 # Joohyeong Park (박주형)
 
-I'm a fourth-year undergraduate in the Department of Intelligent Robot Engineering (지능로봇공학과) at Chungbuk National University (CBNU) and a member of SUV LAB. I plan to go on to a master's program, and I'm aiming for an R&D job in aerospace and defense in 2028.
+I'm a fourth-year undergraduate in the Department of Intelligent Systems & Robotics at Chungbuk National University (CBNU) and a member of SUV LAB. I plan to go on to a master's program, and I'm aiming for an R&D job in aerospace and defense in 2028.
 
 <sub>Korean names that have no official English name I could confirm are given with my own translation. Paper titles are kept in Korean, with a translation in italics.</sub>
 
@@ -51,7 +51,7 @@ Papers presented at conferences.
 - 2026 · **Top excellence award (최우수상), WE-MEET project showcase (WE-MEET 프로젝트 성과발표회)** — first semester of the 2026 school year · CBNU Future Vehicle Innovation Convergence University program (충북대 미래자동차 혁신융합대학사업단) · team award
 - 2026 · **Top excellence award (최우수상), UROP I showcase (UROP I 성과발표회)** — CBNU Future Vehicle Innovation Convergence University program (충북대 미래자동차 혁신융합대학사업단) · 전진형 · 박주형
 - 2025 · **Silver prize (은상), 23rd Embedded Software Contest (제23회 임베디드 소프트웨어 경진대회)** — open-topic division (자유공모 부문) · KETI (한국전자기술연구원) · team 찾아줘드론
-- 2025 · **Top excellence award (최우수상), UROP II showcase (UROP II 성과발표회)** — second semester of the 2025 school year · CBNU Future Vehicle Innovation Convergence University program (충북대 미래자동차 혁신융합대학사업단) · Department of Intelligent Robot Engineering
+- 2025 · **Top excellence award (최우수상), UROP II showcase (UROP II 성과발표회)** — second semester of the 2025 school year · CBNU Future Vehicle Innovation Convergence University program (충북대 미래자동차 혁신융합대학사업단) · Department of Intelligent Systems & Robotics
 - 2022 · **Top excellence award (최우수상), Intelligent Robots & Future Vehicles club competition (지능로봇 & 미래자동차 동아리 경진대회)** — CBNU Digital Innovation Shared University program (충북대학교 디지털혁신공유대학사업단) · team 더블클릭
 - 2021 · **Top excellence award (최우수상), Creative Idea Contest (창의적 아이디어 공모전)** — CBNU Engineering Education Innovation Center (충북대학교 공학교육혁신센터) · team KAFE6
 
